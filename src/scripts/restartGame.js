@@ -1,4 +1,3 @@
-import { count } from "./main.js";
 import { winner } from "./chooseWinner.js";
 
 const reloadGame = () => {
